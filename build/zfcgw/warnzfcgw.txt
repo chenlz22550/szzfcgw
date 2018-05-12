@@ -1,0 +1,27 @@
+missing module named resource - imported by posix, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named posix - imported by os, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named _posixsubprocess - imported by subprocess, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named 'org.python' - imported by pickle, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py, xml.sax
+missing module named readline - imported by cmd, code, pdb, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named _winreg - imported by platform, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named java - imported by platform, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named 'java.lang' - imported by platform, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named termios - imported by tty, getpass, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named urllib.urlopen - imported by urllib, lxml.html
+missing module named urllib.urlencode - imported by urllib, pyquery.openers, lxml.html, pyquery.pyquery
+missing module named grp - imported by shutil, tarfile, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named pwd - imported by posixpath, shutil, tarfile, http.server, webbrowser, netrc, getpass, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named _dummy_threading - imported by dummy_threading, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named org - imported by copy, C:\Users\xrice\Desktop\py\爬政府采购网\zfcgw.py
+missing module named htmlentitydefs - imported by lxml.html.soupparser
+missing module named BeautifulSoup - imported by lxml.html.soupparser
+missing module named bs4 - imported by lxml.html.soupparser
+missing module named urllib2 - imported by pyquery.openers, lxml.html.html5parser
+missing module named 'html5lib.treebuilders' - imported by lxml.html.html5parser
+missing module named html5lib - imported by lxml.html.html5parser
+missing module named urlparse - imported by lxml.html, pyquery.pyquery, lxml.html.html5parser
+missing module named requests - imported by pyquery.openers
+missing module named _scproxy - imported by urllib.request
