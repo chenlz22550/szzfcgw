@@ -9,9 +9,16 @@ def gethtml(url):
     return html  
 if __name__=='__main__':
     p=pq(gethtml('http://www.zfcgwssc.suzhou.gov.cn/'))
+    starttime=time.clock()
+    f=open('categorylist.csv','w')
     for i in p('span').items():
-        j=i('a').attr('href').split('channle/')
-        if  j!= None:
-            print(j)             
-        
+        j=i('a').attr('href')
+        if j is None:
+            pass
+        else:
+            k=j.split('nel/')
+            if len(k)==2:
+                f.write(i('a').text()+','+k[1]+'\n')
+    f.close()
+    print(time.clock()-starttime)               
     print('ok')
